@@ -1,0 +1,119 @@
+<comment><content>BT在英国布署的Wifi热点已经达到400万个，形成与3G有力的配合。类似于Iphone的大数据量应用主要靠wifi进行。</content><time>2012-3-30 9:47:55</time><repostsCount>1</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>BT（英国）电信：英国目前高速光纤已经覆盖700万家庭（近三分之一家庭），网速达300Mbps。目前BT的语音业务只占总收入的10%。光纤宽带的价格每月不到20英镑。</content><time>2012-3-30 9:40:59</time><repostsCount>10</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>学习。 //@薛蛮子: 转发微博</content><time>2012-3-28 13:37:59</time><repostsCount>13</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>我在考虑.zxd呢！ //@毛伟:互联网即将经历一次重大改革，它将影响到每一位用户。目前网址都已我们熟悉的后缀结尾，例如 .Com，.net等，不久之后将出现新的域名后缀，被称为新的顶级域名，简称GTLD；全新的顶级域名意味着什么？如何应对这一机遇和挑战？欢迎大家提问、一起交流分享。</content><time>2012-3-27 16:52:19</time><repostsCount>5</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>//@万网:“国家域名安全联盟”今日正式成立啦，我们愿和各界同仁共同努力，加强交流与合作，提升域名运行安全水平！[鼓掌]</content><time>2012-3-27 16:48:32</time><repostsCount>2</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>吴军：省电技术，高速网络等，以及终端和安全，是云计算技术的关键点。</content><time>2012-3-26 17:00:25</time><repostsCount>1</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>Sorry，是高敏主任。 //@万网张向东: 无锡发改委主任周敏：无锡是个好地方，有环境有政策，欢迎大家来投资创业！</content><time>2012-3-26 16:56:54</time><repostsCount>0</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>清华大学教授郑纬民：我们做了很多研究和实践，用户感受很不错！我还愿意与企业合作！</content><time>2012-3-26 15:52:46</time><repostsCount>2</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>无锡发改委主任周敏：无锡是个好地方，有环境有政策，欢迎大家来投资创业！</content><time>2012-3-26 15:49:30</time><repostsCount>1</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>wave2wave总裁王为民：模块化数据中心。</content><time>2012-3-26 15:47:51</time><repostsCount>0</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>腾讯副总裁吴军：云计算的组成部分：文件系统，资源管理，帐户管理，系统软件，API。</content><time>2012-3-26 15:42:10</time><repostsCount>2</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>长城电脑CTO李晓渝：（1）客户端在变化（2）云计算不是计算而是云网络（3）强调集装箱IDC。</content><time>2012-3-26 15:29:08</time><repostsCount>2</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>华山资本余军：云计算是（1）计算能力（2）带宽（3）存储能力三者的结合，并且通过像水电一样的方式交付。 </content><time>2012-3-26 15:26:26</time><repostsCount>1</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>云计算论坛。看看能发现什么真谛?</content><time>2012-3-26 14:11:17</time><repostsCount>19</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content> //@薛蛮子: 这个栢联景迈山茶园酒店真乃世外桃源。採茶东篱下，悠然见南山。品着普洱茶，刷着微博屏，南面王不易之乐也。</content><time>2012-3-23 23:39:53</time><repostsCount>0</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>寻找同行人！ //@亿利资源集团: 今年已经开始种树了啊</content><time>2012-3-23 23:37:43</time><repostsCount>3</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>转发微博</content><time>2012-3-23 23:08:18</time><repostsCount>6</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>鹿死谁手还不一定。好戏在后面。 //@城里的海鸥: @万网张向东</content><time>2012-3-23 13:39:05</time><repostsCount>5</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>＂有魄力的领导人是敢于负责的，敢于牺牲今天的利益，来换取明天更好的利益。＂漂亮。</content><time>2012-3-22 18:08:12</time><repostsCount>10</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>＂管理者，如果什么事都按规矩办，那要你干什么？＂说得好。</content><time>2012-3-22 18:03:58</time><repostsCount>7</repostsCount><commentsCount>7</commentsCount></comment>
+<comment><content>大自然保护协会张爽：银鸥因食物链被污染而变成同性恋。其体内聚集的毒素浓度是水中浮游生物的2500万倍。</content><time>2012-3-22 14:26:38</time><repostsCount>1</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>//@黄海军中国万网:求扩散@万网 @万网张向东 @万网鲁众 @董默DM @万网伍贞 @FancyView @万小云来了 @万网伍贞 @万网周雷 @王帅不帅 @陶然 @顾建兵 @郭靖 @叶朋</content><time>2012-3-22 14:13:44</time><repostsCount>4</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>有可能是一个失败的机型。</content><time>2012-3-21 10:10:34</time><repostsCount>3</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>转发微博</content><time>2012-3-21 10:07:31</time><repostsCount>4</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>邓侃：OS做到最后是统计学，统计用户行为。呵呵，参加邓博士的讲座，真材实料，少有的精彩。肚子虽然饿，脑子吃了大餐。讲座题目：Google Bigtable Database。</content><time>2012-3-20 20:25:10</time><repostsCount>2</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>转发微博。</content><time>2012-3-20 16:56:00</time><repostsCount>11</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content> //@新浪财经: 工信部部长苗圩：一些地方发展互联网有一定盲目性</content><time>2012-3-19 10:48:23</time><repostsCount>6</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content> //@许亮Mason: 美国招股书，本质是带有广告色彩的法律文件，IPO成败不管，律师按撰写时间收费；国内招股书，本质是带有法律文件色彩的广告，IPO如果不成，主要撰写人券商就收不到佣金。广大散户朋友们，知道区别了吧？</content><time>2012-3-19 10:47:51</time><repostsCount>2</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>学习。 //@邻动王晓东: 注意 技术型小黑用户 的 WIFI 使用习惯。我们要更省电。//@stevenzyc: Android系统有专门的wifi休眠选项，一般有3个选项：wifi在锁屏时休眠，充电时不休眠，从不休眠。其实从不休眠比休眠更省电，因为休眠后后台应用和服务会用3G，3G</content><time>2012-3-19 0:59:01</time><repostsCount>2</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>转发微博</content><time>2012-3-16 21:24:14</time><repostsCount>4</repostsCount><commentsCount>7</commentsCount></comment>
+<comment><content>牛！值得称赞。</content><time>2012-3-16 20:58:10</time><repostsCount>12</repostsCount><commentsCount>8</commentsCount></comment>
+<comment><content>尽管其中好几个结论令人置疑，但不失是一个好的营销策划。</content><time>2012-3-16 12:51:13</time><repostsCount>5</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>下雨了。2012年第一场春雨，真好。</content><time>2012-3-15 23:34:37</time><repostsCount>0</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>卧底真厉害。</content><time>2012-3-15 20:30:55</time><repostsCount>3</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>不过，可能需要扩容到100T才差不多。 //@万网张向东: 好事！</content><time>2012-3-15 11:18:51</time><repostsCount>3</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>好事！</content><time>2012-3-15 10:02:59</time><repostsCount>5</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>安迪?格鲁夫（Intel）：无论你从事哪一行，你都不止是别人的员工，你还是自己职业生涯的员工。</content><time>2012-3-15 9:41:23</time><repostsCount>9</repostsCount><commentsCount>6</commentsCount></comment>
+<comment><content>海恩法则：一次严重的事故的背后，有着十次或者几十次轻微事故或未遂事故。即重大事故之前有征兆，征兆之前有苗头。</content><time>2012-3-15 9:05:17</time><repostsCount>7</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>haha，眼睛明显是挖的</content><time>2012-3-15 0:44:59</time><repostsCount>7</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>以后还需要书架吗？ //@半41王振峰:方便是方便，只是今后用什么来装饰书架呢? //@万网张向东:32册重几十公斤，恐需要一棵树吧！现在可以保存在一张SD卡上，重量不到1克。科技改变生活，改变模式，无法阻挡。</content><time>2012-3-14 14:57:48</time><repostsCount>4</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>32册重几十公斤，恐需要一棵树吧！现在可以保存在一张SD卡上，重量不到1克。科技改变生活，改变模式，无法阻挡。</content><time>2012-3-14 11:20:09</time><repostsCount>6</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>我放弃了。某大屏幕手机，同步软件，不仅速度慢，同步出一大堆相同的联系人，现在干脆不干活了。</content><time>2012-3-14 10:03:34</time><repostsCount>2</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>未来名字：优豆？</content><time>2012-3-12 20:43:03</time><repostsCount>9</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>iPad的一个巨大缺点是输入效率低，如果把传统的键盘与iPad的其他优点结合，也许更符合是商务人士的需求。我现在出差随身携带两个本：传统笔记本和iPad。</content><time>2012-3-12 12:53:25</time><repostsCount>2</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content> //@薛蛮子: 转发微博</content><time>2012-3-11 16:31:45</time><repostsCount>8</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>值得学习。 //@任志强: 责任与诚信。 //@长江颜明:这才叫百年大计 //@长江徐光辉:细节决定成败，德国工业牛的原因 //@十四期强哥:在此实例面前，全民应大讨论：国人为何</content><time>2012-3-11 16:21:39</time><repostsCount>17</repostsCount><commentsCount>6</commentsCount></comment>
+<comment><content>要造一台车，既有越野车那样承受恶劣地形，又要像跑车那样迅捷高速，几乎不可能。非要做则成本极高或者失败。IT领域英特尔CPU的霸主地位20多年无人撼动，在移动领域却被ARM远远甩在后面，因为后者为移动应用充分优化。云计算的性能、成本、可靠性等要素具有某种互斥属性，不明白这点做不出好云。</content><time>2012-3-10 18:22:41</time><repostsCount>4</repostsCount><commentsCount>6</commentsCount></comment>
+<comment><content>转发微博</content><time>2012-3-9 17:17:57</time><repostsCount>2</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>科技进步无止境。</content><time>2012-3-9 14:02:00</time><repostsCount>7</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>希望找到亿利公司接洽人，并约有兴趣的人同行。 //@库布其七星湖: @万网张向东 是亿利资源集团！欢迎考察调研！也可以顺便到我们七星湖沙漠古海温泉一游！</content><time>2012-3-9 13:47:27</time><repostsCount>2</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>找时间去库布齐沙漠看看。央视好像介绍过一个企业在那里把大片沙漠变成绿洲。</content><time>2012-3-8 1:04:11</time><repostsCount>6</repostsCount><commentsCount>6</commentsCount></comment>
+<comment><content>博弈。</content><time>2012-3-7 16:56:21</time><repostsCount>2</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>目前消费类数码存储的年存储量约100PB。云存储的制胜要素是低成本。</content><time>2012-3-7 11:54:57</time><repostsCount>1</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>一条微博的成本大约1分钱（含研发费用）。一封20KB电子邮件的成本大约0.008分钱。一封平信的邮寄费用是0.8元，是微博的60倍，是电子邮件的1万倍。（以上不含用户端费用，如3G费用、电脑上网费用等）</content><time>2012-3-7 11:34:46</time><repostsCount>6</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>没搞懂。 //@万网张向东: 有意思。</content><time>2012-3-4 0:31:18</time><repostsCount>5</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>有意思。</content><time>2012-3-3 23:53:32</time><repostsCount>7</repostsCount><commentsCount>8</commentsCount></comment>
+<comment><content>分享图片：冬日枯枝系列。</content><time>2012-3-3 23:39:14</time><repostsCount>3</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>摄影分享：光线透过玻璃，照在镜头上，产生美丽的七彩图案。</content><time>2012-3-3 23:33:52</time><repostsCount>0</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>崇敬并感兴趣怎样做的！ //@薛蛮子: 佩服这个认真的日本老汉</content><time>2012-3-1 13:10:43</time><repostsCount>7</repostsCount><commentsCount>7</commentsCount></comment>
+<comment><content>聊点技术话题：锂电池到底能够充放电多少次？有没有记忆效应？我这个超声牙刷是一个实例。它采用感应式，涓流充电，从2004年开始使用，约8年时间，每天2次，用后即充，已经充充放放5000次以上，功能如初。作为对比，笔记本充电太快，对电池寿命明显不利。我注意到iPad和iPhone充电设计是慢速充电的。</content><time>2012-2-29 22:16:43</time><repostsCount>6</repostsCount><commentsCount>7</commentsCount></comment>
+<comment><content>我的理发师阿富。从1999年开始成为他的客户，我搬过几次家，离他的发廊越来越远。但今天我仍跟着他。阿富十几年一直在这个店工作，不是店老板，每次见到他，都看到他很快乐，每次给我理发都极其认真，手艺精湛。感谢你！</content><time>2012-2-29 16:43:40</time><repostsCount>1</repostsCount><commentsCount>10</commentsCount></comment>
+<comment><content>我们一直以来看到该批评的太多，该表扬的太少。其实在我们身边也有很多值得赞美的行为，让我们一起找吧！</content><time>2012-2-27 23:43:46</time><repostsCount>3</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>我发现中国服务人员有一项美德：双手递物。比如收款后双手递给找零、双手递还信用卡、发票等，并且大江南北非常普遍。我们常常批评国人的许多习惯不好，但双手递物是我看到的美德之一，文明而典雅，弄得我常常也会以双手回应。</content><time>2012-2-27 21:22:12</time><repostsCount>15</repostsCount><commentsCount>17</commentsCount></comment>
+<comment><content>看不出好到哪去。噪点多，还不如单反效果好。 //@新浪科技: 看看4100万像素是啥效果[嘻嘻]</content><time>2012-2-27 21:02:52</time><repostsCount>2</repostsCount><commentsCount>18</commentsCount></comment>
+<comment><content>伦敦街头临时搭建的木制隔离，每一颗螺丝拧得一丝不苟。木板上先做倒角，然后拧入螺丝。一个民族的质量品格，从点滴细微的地方体现。</content><time>2012-2-17 11:48:52</time><repostsCount>11</repostsCount><commentsCount>9</commentsCount></comment>
+<comment><content>冷眼观瞧，学习。</content><time>2012-2-15 23:17:04</time><repostsCount>7</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>科技含量提高！ //@杜朋-HDC: 确实恐怖 //@大象牌板砖:哈哈哈哈哈哈哈哈</content><time>2012-2-15 23:14:29</time><repostsCount>2</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>哈哈！ //@张向宁: [哈哈] 够狠 //@费建江Feijj:对这些年洋节在中国的泛滥，老祖宗看不过去了！</content><time>2012-2-15 9:22:40</time><repostsCount>3</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>陈一舟：如何执行 用正确的人，用牛人；数据说话，给长得好的加营养，给长得不好的除草；采取一切手段排除阻碍增长的障碍；偏执和玩命。no pain no gain</content><time>2012-2-12 23:40:23</time><repostsCount>7</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>Idea不值钱。把idea变成现实才值钱。</content><time>2012-2-12 23:28:29</time><repostsCount>18</repostsCount><commentsCount>15</commentsCount></comment>
+<comment><content>1, 经济增长是靠新的idea和技术革新。 2, 论经济发展政策：对于一个发展中国家，主要是要鼓励技术引进；对一个发达国家，应该是提高自由经济的技术革新速度。                    --Paul Romer 摘自陈一舟：情系人人</content><time>2012-2-12 23:24:36</time><repostsCount>1</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>Stay hungry, stay foolish. 好熟悉！</content><time>2012-2-12 22:50:43</time><repostsCount>3</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>公司年会后在家休息补课看?社会网络?，看到Mark给拆台的伙伴增加股份，心想这么宽容，后来伙伴的股份变成0.03%，心想这才是美国人！</content><time>2012-2-12 12:24:28</time><repostsCount>4</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>不知是否有效。</content><time>2012-2-10 23:49:35</time><repostsCount>17</repostsCount><commentsCount>9</commentsCount></comment>
+<comment><content>像苹果这样独到的产品应该靠渠道销售，苹果公司只需要管理终端价格就行了。靠直营店得不偿失，拓展速度慢。</content><time>2012-2-9 9:28:02</time><repostsCount>6</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>今晚月亮很皎洁啊！一天的北风带来晴朗的天空。祝朋友们元宵节快乐！</content><time>2012-2-6 18:19:42</time><repostsCount>2</repostsCount><commentsCount>11</commentsCount></comment>
+<comment><content>Cool!</content><time>2012-2-3 21:51:55</time><repostsCount>2</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>超级可爱！ //@新浪科技: 萌翻[心]</content><time>2012-2-2 18:39:13</time><repostsCount>9</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>二十年后，马克·扎克伯格会成为美国总统，而且是最有钱的美国总统。</content><time>2012-2-2 18:32:05</time><repostsCount>3</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>怡然自乐，放松一下：当自己喜爱的音乐再次弥散在空间中的时候，身心获得的是愉悦和放松！暂时在回忆中沉浸——艰辛、操劳、矛盾、抉择、快乐、爱情......快节奏的时代，让我久违了我的音乐！很多唱片已经尘封了多年！</content><time>2012-1-20 1:06:37</time><repostsCount>2</repostsCount><commentsCount>18</commentsCount></comment>
+<comment><content>革自己的命是痛苦的，领导人需要决断力。</content><time>2012-1-19 17:25:40</time><repostsCount>7</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>云计算恰好可以在此时大显身手。如果把机会交给我们，我们可以事先准备好足够的云计算资源，且多地部署，应对突发访问量。</content><time>2012-1-14 10:37:51</time><repostsCount>8</repostsCount><commentsCount>8</commentsCount></comment>
+<comment><content>看电脑久了眼睛疲劳，我认为是两个原因所致：?屏幕小字和细节导致眼部肌肉长时间紧张；②屏幕光线亮度不符合眼睛需要。因此我们应该每隔一段时间要远望，远望是使眼部肌肉恢复放松状态。可以开发一种屏幕软件，让屏幕产生远望的效果，让眼睛放松，达到休息眼睛的作用。在AppStore里还没有。</content><time>2012-1-6 18:11:39</time><repostsCount>5</repostsCount><commentsCount>13</commentsCount></comment>
+<comment><content>好看吗？ //@万宁: 很丑！</content><time>2012-1-4 2:12:12</time><repostsCount>3</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>在美国看到的大功率干手机，我测试了一下，只需要5秒钟就可以把手吹干。搜了一下，它耗电只有1.4KW，标称干手时间10-15秒。按15秒计算，每100次干手费用约0.6元，至少比纸巾便宜10倍。谁能计算它能省多少纸吗？</content><time>2011-11-17 15:43:27</time><repostsCount>15</repostsCount><commentsCount>23</commentsCount></comment>
+<comment><content>免费的吗？期待中！</content><time>2011-11-14 8:47:34</time><repostsCount>4</repostsCount><commentsCount>6</commentsCount></comment>
+<comment><content>强烈建议中国各类公共场所停止使用擦手纸。中国原本就缺木材， 我们没有资格这么浪费。我看到日本基本上是采用干手机。//@薛蛮子: 差距</content><time>2011-11-2 0:10:35</time><repostsCount>14</repostsCount><commentsCount>12</commentsCount></comment>
+<comment><content>难眠的夜！ //@经纬张颖: 认识江南春很久，他最大的一个优点，他是个善良的好人！ //@江南春:落泪，我愿意抚养她长大成人</content><time>2011-7-26 2:35:16</time><repostsCount>13</repostsCount><commentsCount>14</commentsCount></comment>
+<comment><content>转发微博</content><time>2011-7-14 0:49:32</time><repostsCount>4</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>转发微博</content><time>2011-7-14 0:49:22</time><repostsCount>2</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>都挺有哲理的，转发一下！</content><time>2011-7-14 0:49:00</time><repostsCount>11</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>转发微博</content><time>2011-7-14 0:45:20</time><repostsCount>10</repostsCount><commentsCount>2</commentsCount></comment>
+<comment><content>赞同！</content><time>2011-7-6 10:28:33</time><repostsCount>8</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>致敬！ //@潘石屹: 致敬！</content><time>2011-7-3 19:19:32</time><repostsCount>16</repostsCount><commentsCount>9</commentsCount></comment>
+<comment><content>还有一位女士登机卡上漏印姓名无法登机。真的很担心在这种管理水平下，今后飞行安全有没有保证。终于坐到飞机上等待起飞了，先记到这里。</content><time>2011-6-16 8:14:56</time><repostsCount>1</repostsCount><commentsCount>8</commentsCount></comment>
+<comment><content>北京此时雷雨交加。想起前几天朋友在机场候机八九小时的经历，决定换次日早班飞机。在机场找小宾馆住下。今日晨到机场，被告知航班取消，再在一群焦急的人群中，改成另一个航空公司航班，看到几处人群愤怒的场面。机场忙中出错：登机卡有错无论通过安检；</content><time>2011-6-16 8:14:45</time><repostsCount>0</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>杭州回京经历：晚8点飞机，去机场途中得知航班取消，到机场在一群焦急的人群中换票成功，换成7点的国航，心中暗喜。遂发现大量航班已经延误，安心等之。约2小时后发现前面数班航班有的取消，有的已延误更久还不知起飞时间。</content><time>2011-6-16 8:14:08</time><repostsCount>1</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>是的。 //@赤果果地银:一汽注册一个.car，是这意思吗？ //@万网：新顶级域名对知名企业的品牌提升有助推作用，尤其把品牌名与行业相结合。 //@万网张向东：说的对。这个机会很多人还不知道。  //@桥歌在线: #新顶级域名# 可能新顶级域ICANN今年就开放申请了，不如直接去申请.pay更牛，</content><time>2011-6-10 9:05:08</time><repostsCount>3</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>说的对。这个机会很多人还不知道。 //@桥歌在线: #新顶级域名# 可能新顶级域ICANN今年就开放申请了，不如直接去申请.pay更牛，申请费20万美金，虽然可能也会有竞价，但估计肯定不用几百万美金这么多吧！</content><time>2011-6-9 17:35:44</time><repostsCount>3</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>让我想起一个朋友，也有同样的觉悟和爱心行动。国人也有心灵很美的! //@薛蛮子:撼颜哪</content><time>2011-6-9 17:31:39</time><repostsCount>1</repostsCount><commentsCount>0</commentsCount></comment>
+<comment><content>今天又是北京最美的一天，气温凉爽，兰天白云。</content><time>2011-5-31 9:05:09</time><repostsCount>4</repostsCount><commentsCount>13</commentsCount></comment>
+<comment><content>值得知道！ //@叶滨:Interesting! // @林霆-JACKY ：这个有用。</content><time>2011-5-30 18:12:18</time><repostsCount>5</repostsCount><commentsCount>1</commentsCount></comment>
+<comment><content>转发微博。</content><time>2011-5-23 3:21:27</time><repostsCount>8</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>希望功权不要从此消失，我们都很关注你，为你祈福。</content><time>2011-5-17 16:18:50</time><repostsCount>2</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>//@薛蛮子:// @李开复 :[good] 值得观看，值得学习。 // @曾玉 :非常美好。//  @我叫折腾  :只有一个国家拥有那些寻求真理的人，能够独立思考的人，能够记录真实的人，能够不计厉害为这片土地付出的人，能够去捍卫自己宪法权力的人，能够知道世界并不完美，但仍不言乏力、不言放弃的人...</content><time>2011-5-10 13:33:55</time><repostsCount>8</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>//@李开复:[偷笑][偷笑][偷笑]// @庞升东 :呵呵，周末轻松一下，转个同学的搞笑微博</content><time>2011-5-9 12:51:39</time><repostsCount>10</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>与栋梁合影</content><time>2011-4-24 10:18:27</time><repostsCount>3</repostsCount><commentsCount>12</commentsCount></comment>
+<comment><content>分享图片</content><time>2011-4-24 9:55:34</time><repostsCount>14</repostsCount><commentsCount>11</commentsCount></comment>
+<comment><content>在人民大会堂参加建校100周年大会</content><time>2011-4-24 9:21:35</time><repostsCount>7</repostsCount><commentsCount>10</commentsCount></comment>
+<comment><content>百年清华校庆，北京给出最美的一天！此时正迎着灿烂的晚霞，去参加另一场同学聚会。</content><time>2011-4-23 18:49:44</time><repostsCount>2</repostsCount><commentsCount>5</commentsCount></comment>
+<comment><content>创意无限：手机为什么常常错过来电？因为放在包里、不在身边、设为静音...解决方案：开发一个震动手链，与手机无线连接，来电时手链微震，呵呵，怎么样？idea不值钱，但实现的人可以成为亿万富翁。经常来看我的微博吧，点子还有的是呢！顺便说一下，有志的人可以和我联系，我可以资助他实现梦想。</content><time>2011-4-14 17:26:35</time><repostsCount>31</repostsCount><commentsCount>39</commentsCount></comment>
+<comment><content>天气晴好，中轴路万网大厦前落英缤纷，令人心旷神怡!</content><time>2011-4-14 15:55:13</time><repostsCount>1</repostsCount><commentsCount>10</commentsCount></comment>
+<comment><content>很值得一读！《互联网周刊》：IDC的体制之困 http://t.cn/hBRSWS</content><time>2011-4-7 10:04:20</time><repostsCount>20</repostsCount><commentsCount>8</commentsCount></comment>
+<comment><content>己看到注册成功了一批，希望你想要的在里面。系统里可以看到的。</content><time>2011-4-1 18:29:10</time><repostsCount>1</repostsCount><commentsCount>3</commentsCount></comment>
+<comment><content>家中水管坏，水淹地板，常听说。可以研制一种自控阀，流量超过一定值就自动断水。正常用水是用用停停，水管坏了水流是持续的，特征差异很明显。把这个装置接在家庭水管入户处就行了。这个产品一定很有销路。</content><time>2011-3-31 16:01:51</time><repostsCount>7</repostsCount><commentsCount>22</commentsCount></comment>
+<comment><content>在IT两会现场</content><time>2010-11-20 9:35:20</time><repostsCount>19</repostsCount><commentsCount>27</commentsCount></comment>
+<comment><content>杭州的司机文明程度高。车辆在人行斑马线前自觉停下来，礼让行人通过马路，这国内很少见。</content><time>2010-9-17 15:26:54</time><repostsCount>5</repostsCount><commentsCount>17</commentsCount></comment>
+<comment><content>今天的新闻联播好像结构很不同啊！</content><time>2010-8-27 19:31:18</time><repostsCount>1</repostsCount><commentsCount>4</commentsCount></comment>
+<comment><content>test</content><time>2010-8-18 18:59:50</time><repostsCount>4</repostsCount><commentsCount>19</commentsCount></comment>

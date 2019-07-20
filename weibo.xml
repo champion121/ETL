@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books>
+	<book id="001">
+		<title>Harry Potter</title>
+		<author>J K. Rowling</author>
+	</book>
+	<book id="002">
+		<title>Learning XML</title>
+		<author>Erik T. Ray</author>
+	</book>
+</books>
+
+<comment>
+	<content>2014年可以使用，中国中心在64层到69层共2万平米 //@禾臣薛朝阳:#中国中心#也盖出来了？@许立-VANTONE</content>
+	<time>2012-4-3 11:30:08</time>
+	<repostsCount>8</repostsCount>
+	<commentsCount>4</commentsCount>
+</comment>
